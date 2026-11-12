@@ -1,6 +1,6 @@
 # Informe de Auditoría y Trazabilidad de Cambios
 
-ID Cambio / Fecha / Hora / Responsable (Rol) / Archivo Modificado / Descripción del Cambio / Mejora	Relación con Requisitos	Estado / Integración
+ID Cambio / Fecha / Hora / Responsable (Rol) / Archivo Modificado / Descripción del Cambio / Mejora	Relación con Requisitos	Estado / Integración  
 CH-01 / 11/11/2026 / 7:11 pm / Andres Blanco / README.md / Creación inicial de la estructura y objetivo del sistema de citas /General/Proyecto / Aprobado e integrado a main Auditoria.md
 
 CH-02 / 11/11/2026 / 7:11 pm / Andres Blanco / requisitos.md / Inclusión y redacción de los 5 requisitos funcionales base del sistema / RF-01 al RF-05 / Aprobado e integrado a main Auditoria.md
